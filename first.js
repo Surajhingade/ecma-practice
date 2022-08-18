@@ -1,1 +1,1 @@
-console.log("hello lets learn complete ecma concept");
+console.log("hello lets learn complete ecma concept from basic");
